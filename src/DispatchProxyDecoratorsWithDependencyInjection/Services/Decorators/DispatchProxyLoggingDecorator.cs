@@ -52,7 +52,8 @@ namespace DispatchProxyDecoratorsWithDependencyInjection.Services.Decorators
         }
 
         /// <summary>
-        /// Creates and instantiates
+        /// Creates and instantiates new class which inherits from <see cref="DispatchProxyLoggingDecorator{TDecorated}"/>
+        /// and implements <see cref="TDecorated"/>
         /// </summary>
         /// <param name="decorated"></param>
         /// <param name="logger"></param>
