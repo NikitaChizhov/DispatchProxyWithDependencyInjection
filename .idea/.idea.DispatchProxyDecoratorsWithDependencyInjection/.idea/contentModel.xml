@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_DispatchProxyDecoratorsWithDependencyInjection.-536524530.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DispatchProxyDecoratorsWithDependencyInjection" t="IncludeRecursive">
+        <e p="DispatchProxyDecoratorsWithDependencyInjection.csproj" t="IncludeRecursive" />
+        <e p="ExampleConsumer.cs" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="ServiceCollectionsExtensions.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Services" t="Include">
+          <e p="Decorators" t="Include">
+            <e p="DispatchProxyLoggingDecorator.cs" t="Include" />
+            <e p="ExampleServiceClassicDecorator.cs" t="Include" />
+          </e>
+          <e p="ExampleService.cs" t="Include" />
+          <e p="IExampleService.cs" t="Include" />
+          <e p="IImportantDataProvider.cs" t="Include" />
+          <e p="ImportantDataProvider.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DispatchProxyDecoratorsWithDependencyInjection.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DispatchProxyDecoratorsWithDependencyInjection.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
