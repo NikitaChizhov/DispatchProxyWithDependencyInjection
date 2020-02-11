@@ -1,0 +1,1 @@
+An example usage of DispatchProxy-based decorators with Microsoft.Extensions.DependencyInjection
